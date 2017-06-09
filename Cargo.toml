@@ -1,0 +1,8 @@
+[package]
+name = "spork"
+version = "0.0.1"
+authors = ["Peter Jin <peterhaijin@gmail.com>"]
+
+[lib]
+name = "spork"
+path = "src/lib.rs"
